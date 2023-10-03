@@ -1,6 +1,6 @@
 # Car Rental Website
 
-#          https://car-listing.netlify.app/page/1
+#          https://car-listing.netlify.app/
 
 
 
